@@ -23,5 +23,7 @@
 17. 得带阈值法的阈值分割
 18. Prewitt边缘检测
 19. Sobel边缘检测
+20. LOG边缘检测
+21. Hough直线检测
 
 如果有任何疑问请联系Email:sunhaoxx@foxmail.com
